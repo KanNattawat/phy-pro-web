@@ -1,5 +1,3 @@
-//Security Alarm with Ultrasonic Sensor//
-
 #define trigPin 6  
 #define echoPin 5
 #define buzzer 2
